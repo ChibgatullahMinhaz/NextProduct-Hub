@@ -1,0 +1,30 @@
+[
+  {
+    "product_id": 1,
+    "name": "Smart Watch",
+    "desc": "A modern smartwatch designed to help you stay connected and track your fitness. Features include heart rate monitoring, step counter, sleep tracking, message and call notifications, and multiple customizable watch faces. Compatible with both iOS and Android devices.",
+    "price": "$99",
+    "image": "https://i.ibb.co.com/9mwt7bVn/product1.webp"
+  },
+  {
+    "product_id": 2,
+    "name": "Wireless Headphones",
+    "desc": "High-quality over-ear wireless headphones with noise cancellation and long battery life (up to 30 hours). Delivers crystal clear sound, deep bass, and supports Bluetooth 5.0 for seamless connectivity. Perfect for music, movies, and calls.",
+    "price": "$149",
+    "image": "https://i.ibb.co.com/JWr6Q8L4/product2.jpg"
+  },
+  {
+    "product_id": 3,
+    "name": "Gaming Mouse",
+    "desc": "An ergonomic gaming mouse built for precision and comfort during long gaming sessions. Features customizable DPI settings, RGB lighting, and programmable buttons to give you the competitive edge in any game.",
+    "price": "$59",
+    "image": "https://i.ibb.co.com/WN6ND2pN/product3.jpg"
+  },
+  {
+    "product_id": 4,
+    "name": "Mechanical Keyboard",
+    "desc": "Durable mechanical keyboard with tactile switches, RGB backlighting, and anti-ghosting keys. Designed for both gamers and professionals who need speed, accuracy, and comfort. Comes with detachable wrist rest and multiple lighting modes.",
+    "price": "$129",
+    "image": "https://i.ibb.co.com/HpY8cNs9/product4.jpg"
+  }
+]
