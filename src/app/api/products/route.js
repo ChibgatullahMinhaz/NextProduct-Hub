@@ -11,6 +11,7 @@ export async function GET() {
   }
 }
 
+
 export async function POST(req) {
   try {
     const productsCollection = dbConnect("products");
