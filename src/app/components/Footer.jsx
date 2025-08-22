@@ -68,7 +68,7 @@ export default function Footer() {
                 href="mailto:support@nextshop.com"
                 className="hover:text-indigo-600 dark:hover:text-indigo-400 transition"
               >
-                support@nextshop.com
+                support@NextProduct Hub.com
               </a>
             </p>
             <p className="flex items-center gap-2">
@@ -77,7 +77,7 @@ export default function Footer() {
                 href="tel:+1234567890"
                 className="hover:text-indigo-600 dark:hover:text-indigo-400 transition"
               >
-                +1 234 567 890
+                +1 234 567 899978
               </a>
             </p>
             <div className="flex gap-4 mt-2">
