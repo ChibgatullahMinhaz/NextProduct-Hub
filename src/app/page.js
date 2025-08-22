@@ -1,7 +1,6 @@
 import Image from "next/image";
 import Hero from "./components/Hero";
 import About from "./components/About";
-import Testimonials from "./components/Testimonials";
 import CTA from "./components/CTA";
 import ProductHighlights from "./components/ProductHighlights";
 import DailyDealBanner from "./components/DailyDealBanner";
@@ -15,7 +14,6 @@ export default function Home() {
       <About></About>
       <DailyDealBanner></DailyDealBanner>
       <ExplosiveDealBanner></ExplosiveDealBanner>
-      <Testimonials></Testimonials>
       <CTA></CTA>
     </section>
   );
