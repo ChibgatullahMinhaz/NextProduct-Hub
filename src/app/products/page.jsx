@@ -49,7 +49,7 @@ import { AiOutlineArrowRight } from "react-icons/ai";
 export const dynamic = "force-dynamic"; // disable caching
 
 async function getProducts() {
-  const res = await fetch(`${process.env.NEXTAUTH_URL}/api/products`, {
+  const res = await fetch('/api/products', {
     cache: "no-store",
   });
 
